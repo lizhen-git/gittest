@@ -15,6 +15,8 @@ public class GittestApplicationTests {
 
         System.out.println("wakaka");
         System.out.println("wakaka2222");
+        System.out.println("wakaka3333");
+
     }
 
 }
